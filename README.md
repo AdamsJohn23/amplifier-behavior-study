@@ -47,7 +47,8 @@ Although both devices switch cleanly, the BJT shows a steeper transition near th
 
 ### AC Response
 
-An AC sweep from 1 Hz to 1 MHz was used to evaluate gain and phase behavior. Both inverters behave as inverting amplifiers at low frequency, showing ~180° phase shift. As frequency increases, capacitive loading introduces gain roll-off and phase shift reduction.
+An AC sweep from 1 Hz to 1 MHz was used to evaluate gain and phase behavior. Both inverters behave as inverting amplifiers at low frequency, showing ~180° phase shift. As frequency increases, capacitive loading introduces gain roll-off and a gradual phase reduction from ~180° toward ~90°, consistent with first-order RC behavior.
+
 
 The BJT maintains its midband gain to a higher frequency than the NMOS configuration. This is primarily due to higher transconductance (gm) and lower output impedance, allowing it to drive the load more effectively before capacitive effects dominate.
 
