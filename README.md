@@ -2,6 +2,8 @@
 **Device Physics, Feedback, and Resonance in Inverter-Based Amplifiers**
 
 ---
+📄 Full report available here: [Download PDF](docs/AmplifierStudy.pdf)
+---
 
 ## Overview
 
