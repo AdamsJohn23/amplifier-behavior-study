@@ -129,7 +129,7 @@ In the transient domain, oscillations gradually build as energy accumulates in t
 
 Reducing the load resistor to 5 kΩ introduces significant damping. The resonance peak becomes flattened, phase transition smooths, and oscillation amplitude is greatly reduced.
 
-Energy stored in the inductor dissipates more quickly through the lower resistance, preventing sustained ringing and limiting peak amplitude.
+Because energy stored in the inductor dissipates quickly through the lower resistance, the system reaches steady-state oscillation rapidly. Unlike the lightly damped case, no slow amplitude buildup or decay envelope is observed within the same time frame.
 
 ![Resonance AC - Heavy Damping](images/resonance_heavy_ac.png)
 
