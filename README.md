@@ -40,7 +40,8 @@ The BJT exhibits a noticeably sharper transition region. This occurs because col
 ![BJT DC](images/bjt_dc.png)
 
 🔎 **Key Insight:**  
-BJTs transition more sharply due to exponential conduction, while MOSFETs transition more gradually due to quadratic behavior.
+Although both devices switch cleanly, the BJT shows a steeper transition near threshold due to exponential conduction, while the MOSFET response follows a more gradual quadratic behavior.
+
 
 ---
 
