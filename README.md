@@ -107,7 +107,8 @@ In the frequency domain, gain begins rolling off at a lower frequency, illustrat
 
 
 ⚡ **Design Takeaway:**  
-Strong negative feedback reduces gain but improves stability and smooths system response.
+Strong negative feedback reduces effective gain and produces a more controlled, linear system response across DC, AC, and transient domains.
+
 
 ---
 
