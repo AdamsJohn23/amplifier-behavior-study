@@ -167,4 +167,8 @@ Differential pairs amplify small input differences by redistributing bias curren
 
 ## Appendix
 
-Full simulation files and additional plots are included in the `/ltspice` and `/docs` folders.
+## Repository Contents
+
+- `/ltspice` — Original LTspice simulation files for all configurations  
+- `/docs` — Complete technical report with extended analysis and additional plots
+
